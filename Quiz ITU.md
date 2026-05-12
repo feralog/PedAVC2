@@ -430,371 +430,7 @@ E) Infecção por germes multirresistentes, solicitar antibiograma.
 
 
 
-\### Questão 16 — Nefrologia Pediátrica / Síndrome Nefrítica — Caso clínico
-
-Eva, 4 anos, desperta com edema palpebral bilateral, sem outros sintomas. A mãe notou urina avermelhada e espumosa pela manhã. PA: 130/90 mmHg. Urina tipo I: hematúria macroscópica, proteinúria ++, cilindros hemáticos. Hemograma normal. Ureia 45 mg/dL, creatinina 0,8 mg/dL. Qual a principal hipótese diagnóstica?
-
-
-
-A) Síndrome nefrótica.
-
-B) Glomerulonefrite difusa aguda pós-estreptocócica.
-
-C) Infecção do trato urinário.
-
-D) Rabdomiólise.
-
-E) Cistite hemorrágica viral.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* O quadro de edema, hipertensão arterial, hematúria macroscópica, proteinúria (não nefrótica) e cilindros hemáticos é clássico de síndrome nefrítica. A causa mais comum em crianças é a glomerulonefrite pós-estreptocócica. A síndrome nefrótica (A) cursa com proteinúria maciça (> 50 mg/kg/dia), hipoalbuminemia e edema intenso, sem hematúria macroscópica habitualmente. ITU (C) não explicaria cilindros hemáticos e hipertensão. Rabdomiólise (D) causaria mioglobinúria, não hematúria dismórfica. Cistite hemorrágica (E) não cursa com hipertensão e edema.
-
-
-
-\---
-
-
-
-\### Questão 17 — Nefrologia Pediátrica / Síndrome Nefrítica — Exames complementares
-
-No caso clínico anterior, qual exame laboratorial é importante para confirmação etiológica da glomerulonefrite pós-estreptocócica?
-
-
-
-A) Dosagem de complemento C3 e C4.
-
-B) ASLO (antiestreptolisina O).
-
-C) FAN e anti-DNA.
-
-D) ANCA e anti-MBG.
-
-E) Hemocultura.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* Para a glomerulonefrite difusa aguda pós-estreptocócica, a documentação da infecção estreptocócica recente é feita pela elevação do ASLO (ou anti-DNase B). O complemento C3 está baixo e C4 normal, mas a confirmação etiológica é sorológica. FAN/anti-DNA (C) são para lúpus. ANCA (D) para vasculites. Hemocultura (E) não é relevante aqui.
-
-
-
-\---
-
-
-
-\### Questão 18 — Nefrologia Pediátrica / Síndrome Nefrítica — Tratamento
-
-Menino de 8 anos, com glomerulonefrite pós-estreptocócica, apresenta edema moderado, PA 140/95 mmHg, oligúria (300 mL/24h), ureia 80 mg/dL, creatinina 1,2 mg/dL, K 5,8 mEq/L. Qual a conduta terapêutica inicial mais adequada?
-
-
-
-A) Furosemida e dieta hipossódica, além de anti-hipertensivo se necessário.
-
-B) Prednisona 2 mg/kg/dia.
-
-C) Antibioticoterapia com penicilina.
-
-D) Diálise peritoneal imediata.
-
-E) Hidratação endovenosa vigorosa.
-
-
-
-\*\*Gabarito: A\*\*
-
-\*\*Comentário:\*\* O tratamento de suporte é a base: restrição hídrica (20 mL/kg/dia) e dieta hipossódica, associada a diurético de alça (furosemida) para controle da hipervolemia e hipertensão. Pode-se associar bloqueador de canal de cálcio (anlodipino) se necessário. Corticoide (B) não está indicado. Antibiótico (C) não altera o curso da doença. Diálise (D) é reservada para casos refratários com hipercalemia grave ou sintomas urêmicos. Hidratação vigorosa (E) agravaria a hipervolemia.
-
-
-
-\---
-
-
-
-\### Questão 19 — Nefrologia Pediátrica / Síndrome Nefrítica — Indicação de biópsia
-
-Menina de 9 anos com glomerulonefrite pós-estreptocócica mantém hematúria macroscópica, proteinúria nefrótica (U P/C 3,2) e hipocomplementemia (C3 baixo) por 9 semanas. Qual a conduta?
-
-
-
-A) Manter observação e repetir exames em 4 semanas.
-
-B) Biópsia renal.
-
-C) Iniciar prednisona 60 mg/m²/dia.
-
-D) Solicitar cintilografia renal.
-
-E) Iniciar ciclofosfamida.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* As indicações de biópsia renal na GNDA-PE incluem: hematúria macroscópica e disfunção renal persistentes por mais de 3-4 semanas, proteinúria nefrótica por mais de 4 semanas, ou hipocomplementemia por mais de 8 semanas. A paciente preenche critério. As demais condutas não seriam adequadas sem diagnóstico histológico.
-
-
-
-\---
-
-
-
-\### Questão 20 — Nefrologia Pediátrica / Síndrome Nefrítica — Diagnóstico diferencial
-
-Adolescente de 14 anos, sexo feminino, apresenta edema facial, hipertensão, hematúria macroscópica proteinúria de 1,2 g/24h, C3 baixo e C4 normal, ASLO negativo, FAN e anti-DNA negativos. Qual a principal hipótese diagnóstica?
-
-
-
-A) Nefrite lúpica.
-
-B) Glomerulonefrite pós-estreptocócica.
-
-C) Glomerulopatia do C3 (GNMP tipo II).
-
-D) Nefropatia por IgA.
-
-E) Síndrome de Goodpasture.
-
-
-
-\*\*Gabarito: C\*\*
-
-\*\*Comentário:\*\* O perfil de complemento com C3 baixo e C4 normal, na ausência de evidência de infecção estreptocócica (ASLO negativo) e com marcadores de lúpus negativos, sugere glomerulopatia do C3 (antes chamada GNMP tipo II). A nefrite lúpica (A) cursaria com C3 e C4 baixos. Nefropatia por IgA (D) tem complemento normal. Goodpasture (E) tem anti-MBG positivo.
-
-
-
-\---
-
-
-
-\### Questão 21 — Nefrologia Pediátrica / Síndrome Nefrítica — Evolução laboratorial
-
-Uma criança com glomerulonefrite pós-estreptocócica é acompanhada ambulatorialmente. Após 8 semanas, o complemento C3 normalizou, a hematúria microscópica persiste e a proteinúria é mínima. Qual a interpretação correta?
-
-
-
-A) A normalização do C3 indica necessidade de nova biópsia.
-
-B) A hematúria microscópica pode persistir por 1 a 2 anos sem implicar complicação.
-
-C) O paciente evoluiu para glomerulonefrite crônica e precisa de diálise.
-
-D) É necessário iniciar corticoide para evitar progressão.
-
-E) O paciente deve ser submetido a plasmaférese.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* Conforme o material, a hematúria microscópica pode persistir por 1-2 anos após GNDA-PE, sem necessariamente significar cronicidade. A normalização do C3 em 6-8 semanas é esperada, indicando resolução da atividade imune. As demais alternativas são condutas desnecessárias.
-
-
-
-\---
-
-
-
-\### Questão 22 — Nefrologia Pediátrica / Síndrome Nefrótica — Quadro clínico e diagnóstico
-
-Yuri, 4 anos, há 1 mês apresenta edema palpebral matutino que melhora ao longo do dia, apatia e urina espumosa. Ao exame: PA normal, edema periorbitário discreto, sem ascite evidente. Qual a suspeita diagnóstica e os exames iniciais solicitados?
-
-
-
-A) Síndrome nefrítica; ureia, creatinina, C3.
-
-B) Síndrome nefrótica; proteinúria de 24h, albumina sérica, lipidograma, ureia e creatinina.
-
-C) Insuficiência cardíaca; ecocardiograma.
-
-D) Hipotireoidismo; TSH e T4 livre.
-
-E) Doença hepática; transaminases e coagulograma.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* O quadro de edema insidioso, urina espumosa (proteinúria) e apatia sugere síndrome nefrótica, que é confirmada por proteinúria nefrótica, hipoalbuminemia e hiperlipidemia, além de avaliação de função renal. Síndrome nefrítica (A) teria hipertensão e hematúria. As demais alternativas não explicam a proteinúria e o edema.
-
-
-
-\---
-
-
-
-\### Questão 23 — Nefrologia Pediátrica / Síndrome Nefrótica — Fisiopatologia
-
-Na síndrome nefrótica, a proteinúria maciça leva a várias complicações. Qual das alternativas abaixo explica a fisiopatologia do edema?
-
-
-
-A) Retenção primária de sódio e água por ativação do sistema renina-angiotensina-aldosterona, sem relação com albumina.
-
-B) Hipoalbuminemia levando à redução da pressão oncótica plasmática, extravasamento de líquido para o interstício e hipovolemia secundária.
-
-C) Aumento da permeabilidade vascular generalizada causada por toxinas urêmicas.
-
-D) Obstrução linfática por acúmulo de lipoproteínas.
-
-E) Hipervolemia por insuficiência renal aguda oligúrica.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* A perda maciça de albumina na urina leva à hipoalbuminemia, que diminui a pressão oncótica plasmática, favorecendo o extravasamento de líquido para o interstício e formando edema (teoria clássica do underfill). A retenção primária de sódio (A) pode contribuir, mas a hipoalbuminemia é central. As demais não são o mecanismo principal.
-
-
-
-\---
-
-
-
-\### Questão 24 — Nefrologia Pediátrica / Síndrome Nefrótica — Tratamento específico
-
-Menino de 3 anos, com síndrome nefrótica córtico-sensível, apresenta primeira recidiva (proteinúria +++, edema moderado). Qual o esquema de prednisona recomendado?
-
-
-
-A) Prednisona 2 mg/kg/dia por 4 semanas, seguida de suspensão abrupta.
-
-B) Prednisona 60 mg/m²/dia por 6 semanas, depois redução gradual.
-
-C) Reiniciar prednisona 2 mg/kg/dia até remissão da proteinúria por 3 dias, depois 1,5 mg/kg em dias alternados por 4 semanas.
-
-D) Pulsoterapia com metilprednisolona 1 g/dia por 3 dias.
-
-E) Substituir por ciclosporina imediatamente.
-
-
-
-\*\*Gabarito: C\*\*
-
-\*\*Comentário:\*\* No tratamento da recidiva, reinicia-se prednisona 2 mg/kg/dia (ou 60 mg/m²/dia) até a remissão da proteinúria por 3 dias consecutivos, seguindo então com 1,5 mg/kg em dias alternados por 4 semanas. A alternativa A é para o primeiro surto. B não segue o protocolo de recidiva. Pulsoterapia (D) é para casos resistentes. Ciclosporina (E) é poupadora de corticoide, não primeira linha na recidiva.
-
-
-
-\---
-
-
-
-\### Questão 25 — Nefrologia Pediátrica / Síndrome Nefrótica — Complicações
-
-Criança de 5 anos com síndrome nefrótica corticodependente, em vigência de corticoterapia, apresenta dor abdominal súbita, ascite e febre. Líquido ascítico: celularidade 800 leucócitos/mm³, predomínio de polimorfonucleares. Qual a complicação mais provável?
-
-
-
-A) Crise hipovolêmica.
-
-B) Peritonite bacteriana espontânea.
-
-C) Tromboembolismo pulmonar.
-
-D) Pancreatite aguda.
-
-E) Ruptura de cisto renal.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* Crianças com síndrome nefrótica são propensas a infecções, incluindo peritonite bacteriana espontânea, pelo estado edematoso e perda urinária de imunoglobulinas. O quadro de dor abdominal, febre e líquido ascítico com predomínio de polimorfonucleares confirma o diagnóstico. Crise hipovolêmica (A) cursa com hipotensão, não febre e ascite inflamatória.
-
-
-
-\---
-
-
-
-\### Questão 26 — Nefrologia Pediátrica / Síndrome Nefrótica — Tratamento de suporte
-
-Paciente com síndrome nefrótica, anasarca, derrame pleural e oligúria. Hipovolemia descartada clinicamente. Qual a abordagem diurética recomendada?
-
-
-
-A) Restrição hídrica absoluta e furosemida isolada.
-
-B) Infusão de albumina a 20% (0,5-1 g/kg) seguida de furosemida.
-
-C) Espironolactona isolada.
-
-D) Diálise peritoneal imediata.
-
-E) Hidroclorotiazida oral apenas.
-
-
-
-\*\*Gabarito: B\*\*
-
-\*\*Comentário:\*\* Em edemas volumosos e persistentes (anasarca, derrame pleural), a infusão de albumina a 20% associada à furosemida promove aumento transitório da pressão oncótica e da filtração glomerular, melhorando a natriurese. A restrição hídrica absoluta (A) é inadequada; a diálise (D) não é primeira linha.
-
-
-
-\---
-
-
-
-\### Questão 27 — Nefrologia Pediátrica / Síndrome Nefrótica — Resposta ao corticoide
-
-Menino de 5 anos com síndrome nefrótica recebe prednisona 60 mg/m²/dia por 6 semanas, sem remissão da proteinúria (U P/C permanece 4,5). Qual a classificação de sua resposta?
-
-
-
-A) Corticossensível.
-
-B) Recidivante infrequente.
-
-C) Corticodependente.
-
-D) Corticorresistente.
-
-E) Remissão parcial.
-
-
-
-\*\*Gabarito: D\*\*
-
-\*\*Comentário:\*\* Define-se corticorresistência quando não há remissão após 4 a 6 semanas de prednisona em dose padronizada (2 mg/kg/dia ou 60 mg/m²/dia). O paciente não atingiu remissão após 6 semanas, preenchendo critério. Corticossensível (A) é quando ocorre remissão. Recidivante (B) e córtico-dependente (C) implicam resposta inicial. Remissão parcial (E) exige redução de 50% da proteinúria, o que não ocorreu.
-
-
-
-\---
-
-
-
-\### Questão 28 — Nefrologia Pediátrica / Síndrome Nefrótica — Classificação histológica
-
-Entre as causas primárias de síndrome nefrótica em crianças, qual a forma histológica mais frequente e que geralmente apresenta boa resposta ao corticoide?
-
-
-
-A) Glomeruloesclerose segmentar e focal (GESF).
-
-B) Glomerulonefrite membranoproliferativa.
-
-C) Lesão histológica mínima (LHM).
-
-D) Glomerulopatia membranosa.
-
-E) Esclerose mesangial difusa.
-
-
-
-\*\*Gabarito: C\*\*
-
-\*\*Comentário:\*\* Em crianças, aproximadamente 80-90% das síndromes nefróticas idiopáticas são por lesão histológica mínima, e 93% destas respondem bem ao corticoide. GESF (A) é a segunda causa, mas menos frequente e mais resistente. As demais são menos comuns na faixa etária pediátrica.
-
-
-
-\---
-
-
-
-\### Questão 29 — Nefrologia Pediátrica / ITU — Falso-positivo em urocultura
+\### Questão 16 — Nefrologia Pediátrica / ITU — Falso-positivo em urocultura
 
 Menina de 4 anos colheu urocultura por jato médio, mas a amostra permaneceu em temperatura ambiente por mais de 2 horas antes de ser processada. O resultado mostra 80.000 UFC/mL de E. coli. Ela está assintomática. Como interpretar?
 
@@ -822,25 +458,389 @@ E) Solicitar US renal.
 
 
 
-\### Questão 30 — Nefrologia Pediátrica / Síndrome Nefrótica — Complicações tromboembólicas
+\### Questão 17 — Nefrologia Pediátrica / ITU — Bacteriúria assintomática
 
-Adolescente de 15 anos com síndrome nefrótica primária corticorresistente, acamado, apresenta dor e edema súbito de membro inferior esquerdo, com empastamento de panturrilha. Qual a complicação suspeitada?
+Menina de 6 anos, sem queixas urinárias, realiza exame de urina de rotina que mostra urocultura com 120.000 UFC/mL de E. coli. Urina tipo I sem leucocitúria. Qual a conduta?
 
 
 
-A) Celulite.
+A) Iniciar antibioticoterapia oral por 7 dias.
 
-B) Trombose venosa profunda.
+B) Repetir urocultura e, se confirmada, tratar com nitrofurantoína.
 
-C) Crise aguda de gota.
+C) Não tratar; trata-se de bacteriúria assintomática.
 
-D) Ruptura de cisto de Baker.
+D) Solicitar uretrocistografia miccional.
 
-E) Linfedema secundário.
+E) Iniciar profilaxia antibiótica contínua.
+
+
+
+\*\*Gabarito: C\*\*
+
+\*\*Comentário:\*\* A bacteriúria assintomática é definida pela presença de urocultura positiva na ausência de sintomas e sem leucocitúria. Não requer tratamento, pois a flora colonizante pode até proteger contra uropatógenos. O tratamento desnecessário favorece resistência bacteriana. Exceções incluem gestantes e pacientes pré-procedimento urológico.
+
+
+
+\---
+
+
+
+\### Questão 18 — Nefrologia Pediátrica / ITU — Pielonefrite vs. Cistite
+
+Menina de 3 anos apresenta febre alta (39,5°C), vômitos e dor lombar à direita. Urina I com leucocitúria, nitrito positivo e cilindros piocitários. Hemograma com leucocitose e PCR elevada. Qual a diferenciação clínica mais importante entre pielonefrite e cistite neste caso?
+
+
+
+A) A presença de nitrito positivo indica pielonefrite.
+
+B) A febre alta, dor lombar e cilindros piocitários indicam acometimento do parênquima renal (pielonefrite).
+
+C) A leucocitúria é exclusiva de cistite.
+
+D) Vômitos são patognomônicos de cistite complicada.
+
+E) PCR elevada é inespecífica e não diferencia os dois quadros.
 
 
 
 \*\*Gabarito: B\*\*
 
-\*\*Comentário:\*\* A síndrome nefrótica cursa com estado de hipercoagulabilidade devido à perda urinária de fatores anticoagulantes (antitrombina III) e aumento da síntese de pró-coagulantes. A imobilidade agrava o risco de trombose venosa profunda, que se apresenta com edema assimétrico e dor. As demais alternativas são menos prováveis no contexto.
+\*\*Comentário:\*\* A pielonefrite aguda se diferencia da cistite pela presença de febre alta (≥ 38,5°C), dor lombar/Giordano positivo, toxemia e marcadores inflamatórios elevados (PCR, VHS). Os cilindros piocitários indicam inflamação no parênquima renal. A cistite é caracterizada por sintomas irritativos baixos (disúria, polaciúria) sem febre. O nitrito (A) pode estar presente em ambas.
+
+
+
+\---
+
+
+
+\### Questão 19 — Nefrologia Pediátrica / ITU — Profilaxia antibiótica
+
+Menino de 1 ano, com RVU grau IV diagnosticado por UCM, já apresentou 2 episódios de pielonefrite. Qual o esquema de profilaxia antibiótica recomendado?
+
+
+
+A) Amoxicilina em dose terapêutica por 14 dias.
+
+B) Cefalexina em dose profilática (1/3 a 1/4 da dose terapêutica), 1x/dia, contínua.
+
+C) Nitrofurantoína em dose plena, 6/6h, por 30 dias.
+
+D) Ceftriaxona intramuscular mensal.
+
+E) Sulfametoxazol-trimetoprima em dose terapêutica por 21 dias.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* A quimioprofilaxia contínua em dose baixa (1/3 a 1/4 da dose terapêutica, 1x/dia) é indicada para crianças com RVU graus III-V. Para menores de 2 meses, usa-se cefalexina ou amoxicilina. Acima de 2 meses, as opções incluem nitrofurantoína (1-2 mg/kg/dia) ou sulfametoxazol-trimetoprima. A dose deve ser profilática, não terapêutica.
+
+
+
+\---
+
+
+
+\### Questão 20 — Nefrologia Pediátrica / RVU — Resolução espontânea
+
+Menina de 8 meses é diagnosticada com RVU grau II bilateral após investigação de primeiro episódio de pielonefrite. Qual a probabilidade de resolução espontânea e a conduta inicial?
+
+
+
+A) Baixa probabilidade de resolução; indicar cirurgia imediata.
+
+B) Alta probabilidade de resolução espontânea; observação clínica sem profilaxia.
+
+C) Alta probabilidade de resolução espontânea; acompanhamento com ou sem profilaxia antibiótica, conforme risco.
+
+D) Resolução impossível sem intervenção; encaminhar para transplante.
+
+E) Moderada probabilidade; iniciar imunossupressão.
+
+
+
+\*\*Gabarito: C\*\*
+
+\*\*Comentário:\*\* O RVU graus I-II em crianças pequenas apresenta alta taxa de resolução espontânea (até 80%), especialmente quando unilateral e de baixo grau. A conduta inicial é conservadora, com acompanhamento clínico e profilaxia antibiótica nos casos de ITU recorrente. A cirurgia é reservada para graus altos refratários ou com cicatrizes renais progressivas.
+
+
+
+\---
+
+
+
+\### Questão 21 — Nefrologia Pediátrica / RVU — Nefropatia do refluxo
+
+Menino de 4 anos com RVU grau IV bilateral, com múltiplos episódios de pielonefrite, realiza cintilografia renal com DMSA que mostra cicatrizes corticais bilaterais com redução da captação. Qual a denominação dessa complicação?
+
+
+
+A) Necrose tubular aguda.
+
+B) Nefropatia do refluxo (pielonefrite crônica cicatricial).
+
+C) Síndrome nefrótica secundária.
+
+D) Rim policístico.
+
+E) Estenose de junção pieloureteral.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* A nefropatia do refluxo é a consequência crônica do RVU com ITU de repetição, resultando em cicatrizes renais detectadas pela cintilografia com DMSA. É uma das principais causas de hipertensão e doença renal crônica na infância. A prevenção inclui profilaxia antibiótica e correção cirúrgica quando indicada.
+
+
+
+\---
+
+
+
+\### Questão 22 — Nefrologia Pediátrica / ITU — Agentes etiológicos
+
+Menino de 2 meses, não circuncisado, apresenta ITU febril. Urocultura por cateterismo vesical mostra crescimento de Proteus mirabilis. Qual a particularidade desse agente?
+
+
+
+A) É o agente mais comum de ITU em todas as faixas etárias.
+
+B) É produtor de urease, alcaliniza a urina e favorece formação de cálculos de estruvita.
+
+C) É resistente a todos os betalactâmicos.
+
+D) Causa exclusivamente cistite, nunca pielonefrite.
+
+E) É um fungo oportunista comum em imunossuprimidos.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* O Proteus mirabilis é o segundo agente mais comum de ITU em meninos, especialmente não circuncisados. Sua principal característica é a produção de urease, que converte ureia em amônia, elevando o pH urinário e favorecendo a precipitação de cristais de fosfato de magnésio e amônia (estruvita). O agente mais comum em ambos os sexos é a E. coli (A).
+
+
+
+\---
+
+
+
+\### Questão 23 — Nefrologia Pediátrica / ITU — Exame de urina tipo I
+
+Lactente de 8 meses com suspeita de ITU. Urina tipo I coletada por saco coletor mostra: leucócitos 8.000/mL, nitrito negativo, bacterioscopia negativa. Qual a interpretação e conduta?
+
+
+
+A) Confirma ITU; iniciar antibiótico imediatamente.
+
+B) Descarta ITU; o saco coletor tem alto valor preditivo positivo.
+
+C) Resultado negativo tem alto valor preditivo negativo; praticamente descarta ITU.
+
+D) Resultado inconclusivo; repetir com cateterismo vesical obrigatoriamente.
+
+E) O nitrito negativo confirma ausência de bactérias.
+
+
+
+\*\*Gabarito: C\*\*
+
+\*\*Comentário:\*\* O saco coletor tem alto valor preditivo negativo: quando a urina tipo I é normal (sem leucocitúria, nitrito negativo), a probabilidade de ITU é muito baixa. Porém, o valor preditivo positivo é baixo (alta taxa de falso-positivo por contaminação). O nitrito negativo (E) não descarta ITU, pois algumas bactérias não produzem nitrito e a urina pode não ter permanecido tempo suficiente na bexiga.
+
+
+
+\---
+
+
+
+\### Questão 24 — Nefrologia Pediátrica / RVU — Indicação cirúrgica
+
+Menina de 3 anos com RVU grau V unilateral, múltiplos episódios de pielonefrite apesar de profilaxia antibiótica adequada, e cicatrizes renais progressivas na DMSA. Qual a conduta?
+
+
+
+A) Manter profilaxia por mais 2 anos e reavaliar.
+
+B) Suspender profilaxia e apenas observar.
+
+C) Indicar correção cirúrgica (reimplante ureteral ou tratamento endoscópico).
+
+D) Realizar nefrectomia bilateral.
+
+E) Iniciar corticoterapia para reduzir fibrose.
+
+
+
+\*\*Gabarito: C\*\*
+
+\*\*Comentário:\*\* A correção cirúrgica do RVU está indicada quando há: graus IV-V persistentes, ITU de repetição apesar de profilaxia adequada, cicatrizes renais progressivas ou má adesão à profilaxia. As técnicas incluem o reimplante ureteral (cirurgia aberta com taxa de sucesso > 95%) ou a injeção endoscópica subureteral (Deflux®). A nefrectomia (D) é reservada para rins não funcionantes.
+
+
+
+\---
+
+
+
+\### Questão 25 — Nefrologia Pediátrica / ITU — Tratamento de pielonefrite
+
+Lactente de 4 meses com pielonefrite aguda confirmada por urocultura (E. coli sensível). Está em bom estado geral, aceita bem a alimentação, sem vômitos. Qual o tratamento recomendado?
+
+
+
+A) Sempre hospitalizar e tratar com antibiótico intravenoso por 14 dias.
+
+B) Tratamento ambulatorial com cefalosporina de 3ª geração oral (cefixima) por 10-14 dias, com reavaliação em 48h.
+
+C) Nitrofurantoína oral por 5 dias.
+
+D) Antibiótico intramuscular dose única e observação.
+
+E) Apenas antitérmico e hidratação, sem antibiótico.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* Lactentes acima de 2-3 meses, em bom estado geral, sem vômitos e com boa aceitação oral, podem ser tratados ambulatorialmente com cefalosporina de 3ª geração oral por 10-14 dias, com reavaliação clínica em 48 horas. A hospitalização com tratamento IV é obrigatória para menores de 2 meses, pacientes toxemiados ou com intolerância oral. A nitrofurantoína (C) não atinge concentração sérica adequada e é contraindicada em pielonefrite.
+
+
+
+\---
+
+
+
+\### Questão 26 — Nefrologia Pediátrica / RVU — Fisiopatologia
+
+Sobre a fisiopatologia do refluxo vesicoureteral primário em crianças, qual a principal alteração anatômica responsável?
+
+
+
+A) Estenose da junção ureterovesical.
+
+B) Implantação anômala do ureter na bexiga, com túnel submucoso curto, resultando em incompetência do mecanismo valvular.
+
+C) Hipertrofia do detrusor por obstrução infravesical.
+
+D) Duplicidade ureteral completa sempre associada.
+
+E) Bexiga neurogênica por defeito medular.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* O RVU primário ocorre por defeito congênito na junção ureterovesical: o ureter se insere na bexiga com um túnel submucoso curto ou com ângulo inadequado, o que impede o mecanismo valvular antirrefluxo durante o enchimento vesical. A maturação progressiva da junção explica a resolução espontânea em graus baixos. O RVU secundário (C, E) é causado por aumento da pressão intravesical.
+
+
+
+\---
+
+
+
+\### Questão 27 — Nefrologia Pediátrica / ITU — Circuncisão e prevenção
+
+Menino de 6 meses, não circuncisado, apresenta terceiro episódio de ITU febril. Investigação mostra trato urinário anatomicamente normal. A mãe questiona sobre circuncisão. Qual a orientação baseada em evidências?
+
+
+
+A) A circuncisão não tem qualquer relação com ITU.
+
+B) A circuncisão reduz o risco de ITU em meninos, especialmente naqueles com ITU recorrente e anomalias do trato urinário.
+
+C) A circuncisão é contraindicada antes dos 5 anos.
+
+D) A circuncisão aumenta o risco de ITU por alterar a flora local.
+
+E) A circuncisão só é indicada em meninos com fimose patológica após os 10 anos.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* Estudos demonstram que a circuncisão reduz em até 10 vezes o risco de ITU em meninos, especialmente no primeiro ano de vida. A AAP reconhece que os benefícios superam os riscos, particularmente em meninos com ITU recorrente ou anomalias do trato urinário (como RVU). O prepúcio não circuncisado favorece a colonização periuretral por uropatógenos gram-negativos.
+
+
+
+\---
+
+
+
+\### Questão 28 — Nefrologia Pediátrica / ITU — Cintilografia renal DMSA
+
+Menina de 2 anos com pielonefrite aguda confirmada. Após tratamento adequado, a equipe solicita cintilografia renal com DMSA. Qual o momento ideal para realização e o que o exame avalia?
+
+
+
+A) Realizar durante a fase aguda para confirmar o diagnóstico; avalia função tubular.
+
+B) Realizar 4-6 meses após o episódio agudo; avalia cicatrizes renais permanentes.
+
+C) Realizar imediatamente; avalia refluxo vesicoureteral.
+
+D) Realizar 1 semana após; avalia obstrução ureteral.
+
+E) Não é indicada em crianças abaixo de 5 anos.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* A cintilografia renal com DMSA (ácido dimercaptossuccínico) é o padrão-ouro para detectar cicatrizes renais. Quando realizada na fase aguda, pode mostrar áreas de hipocaptação que representam inflamação transitória. Para avaliar dano permanente (cicatrizes), deve ser realizada 4-6 meses após o episódio agudo. Não avalia refluxo (C), que é diagnosticado pela UCM.
+
+
+
+\---
+
+
+
+\### Questão 29 — Nefrologia Pediátrica / RVU — Classificação e conduta por grau
+
+Menino de 18 meses com ITU recorrente realiza UCM que mostra contraste apenas no ureter distal, sem atingir a pelve renal. Qual o grau do RVU e a conduta recomendada?
+
+
+
+A) Grau I; observação clínica, com ou sem profilaxia.
+
+B) Grau II; cirurgia endoscópica imediata.
+
+C) Grau III; profilaxia antibiótica contínua.
+
+D) Grau IV; nefrectomia.
+
+E) Grau V; transplante renal.
+
+
+
+\*\*Gabarito: A\*\*
+
+\*\*Comentário:\*\* No grau I do RVU, o contraste reflui apenas até o ureter, sem atingir a pelve renal. É o grau mais leve e tem a maior taxa de resolução espontânea. A conduta é conservadora: observação clínica, tratamento das ITU quando ocorrerem e eventual profilaxia. A cirurgia não é indicada para graus I-II.
+
+
+
+\---
+
+
+
+\### Questão 30 — Nefrologia Pediátrica / ITU — Disfunção vesical e intestinal
+
+Menina de 6 anos com ITU de repetição, sem anomalias anatômicas na US e UCM normais. A mãe relata que a criança prende a urina na escola, tem urgência miccional, incontinência diurna ocasional e constipação crônica. Qual a causa provável das ITU recorrentes?
+
+
+
+A) RVU oculto não diagnosticado.
+
+B) Disfunção vesical e intestinal (BBD — Bladder and Bowel Dysfunction).
+
+C) Imunodeficiência primária.
+
+D) Diabetes mellitus tipo 1.
+
+E) Litíase renal obstrutiva.
+
+
+
+\*\*Gabarito: B\*\*
+
+\*\*Comentário:\*\* A disfunção vesical e intestinal (BBD) é uma causa frequente e subdiagnosticada de ITU recorrente em crianças, especialmente meninas em idade escolar. Inclui hábitos de retenção urinária, urgência, incontinência diurna e constipação intestinal. O esvaziamento vesical incompleto favorece a proliferação bacteriana. O tratamento envolve reeducação miccional (micções programadas), tratamento da constipação e, eventualmente, anticolinérgicos. A investigação de RVU (A) já foi descartada pela UCM normal.
 
