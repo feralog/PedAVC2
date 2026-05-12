@@ -812,7 +812,7 @@ C) 3 critérios, diariamente, por 2 semanas.
 
 D) 2 ou mais critérios, por 1 mês, sem frequência mínima.
 
-E) 2 ou mais critérios, pelo menos 1 vez por semana, por 3 meses.
+E) 1 critério, pelo menos 1 vez por semana, por 3 meses.
 
 
 
