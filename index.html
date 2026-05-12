@@ -4,6 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Quizzes — Pediatria · UNISA</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🩺</text></svg>">
 <style>
   * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -35,7 +36,7 @@
   }
   .quiz-cards {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
     gap: 16px;
   }
   .quiz-card {
@@ -180,6 +181,21 @@
       <h3>Tuberculose Pediátrica</h3>
       <small>30 questões</small>
     </div>
+    <div class="quiz-card" onclick="loadQuiz('itu')">
+      <div class="icon">🧪</div>
+      <h3>ITU na Infância</h3>
+      <small>30 questões</small>
+    </div>
+    <div class="quiz-card" onclick="loadQuiz('exantematicas')">
+      <div class="icon">🔴</div>
+      <h3>Doenças Exantemáticas</h3>
+      <small>30 questões</small>
+    </div>
+    <div class="quiz-card" onclick="loadQuiz('dep')">
+      <div class="icon">⚖️</div>
+      <h3>Desnutrição (DEP)</h3>
+      <small>30 questões</small>
+    </div>
   </div>
 </div>
 
@@ -322,13 +338,28 @@ const QUIZ_CONFIG = {
   meningites: {
     file: 'Quiz Meningites.md',
     title: 'Meningites Bacterianas na Criança',
-    desc: '30 questões de nível internato/residência sobre epidemiologia, diagnóstico, tratamento e profilaxia das meningites bacterianas pediátricas.',
+    desc: '30 questões sobre epidemiologia, diagnóstico, tratamento e profilaxia das meningites bacterianas pediátricas.',
   },
   tb: {
     file: 'Quiz TB.md',
     title: 'Tuberculose Pediátrica',
     desc: '30 questões sobre diagnóstico, escore de Sant\'Anna, ILTB, tratamento e farmacologia da tuberculose em crianças e adolescentes.',
-  }
+  },
+  itu: {
+    file: 'Quiz ITU.md',
+    title: 'Infecção do Trato Urinário na Infância',
+    desc: '30 questões sobre diagnóstico, tratamento, investigação por imagem e profilaxia da ITU em pediatria.',
+  },
+  exantematicas: {
+    file: 'quiz_doencas_exantematicas.md',
+    title: 'Doenças Exantemáticas',
+    desc: '30 questões sobre sarampo, rubéola, varicela, escarlatina, eritema infeccioso e outras doenças exantemáticas pediátricas.',
+  },
+  dep: {
+    file: 'Quiz DEP.md',
+    title: 'Desnutrição Energético-Proteica (DEP)',
+    desc: '30 questões sobre classificação, diagnóstico e manejo da desnutrição em pediatria.',
+  },
 };
 
 // ════════════════════════════════════════════════════════════
