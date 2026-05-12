@@ -390,7 +390,7 @@ function shuffleQuestion(q) {
 }
 
 function prepareQuestions() {
-  return shuffle(rawQuestions).map(shuffleQuestion);
+  return rawQuestions.map(shuffleQuestion);
 }
 
 // ════════════════════════════════════════════════════════════
