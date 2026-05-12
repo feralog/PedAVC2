@@ -231,93 +231,75 @@
 //  PARSER DE MARKDOWN → array de questões
 // ════════════════════════════════════════════════════════════
 function parseMarkdown(text) {
-  // Normaliza quebras de linha
+  // 1. Normaliza quebras de linha
   text = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
 
+  // 2. Remove barras invertidas de escape (ex: \### → ###, \*\* → **, \--- → ---)
+  //    Isso cobre arquivos gerados com markdown "seguro" onde símbolos são escapados
+  text = text.replace(/\\(.)/g, '$1');
+
   const questions = [];
-  // Divide por separador --- ou por cabeçalho ### Questão
-  const blocks = text.split(/\n---+\n/).map(b => b.trim()).filter(Boolean);
+
+  // 3. Divide em blocos pelo separador ---
+  const blocks = text.split(/\n-{3,}\n/).map(b => b.trim()).filter(Boolean);
 
   for (const block of blocks) {
-    const lines = block.split('\n');
+    // Remove todos os asteriscos de negrito/itálico do bloco
+    const clean = block.replace(/\*/g, '');
 
-    // Extrai enunciado: linhas antes das alternativas A)
-    let questionLines = [];
-    let optionLines   = [];
-    let explanationLines = [];
-    let phase = 'question';
+    // ── Encontra a letra do gabarito ──
+    const gabMatch = clean.match(/Gabarito\s*[:\-]?\s*([A-E])\b/i);
+    if (!gabMatch) continue;
+    const correctLetter = gabMatch[1].toUpperCase();
+
+    // ── Explicação: tudo após "Comentário:" até o fim do bloco ──
+    const expIdx = clean.search(/Comentário\s*[:\-]?/i);
+    const explanation = expIdx >= 0
+      ? clean.substring(expIdx).replace(/Comentário\s*[:\-]?/i, '').trim()
+      : '';
+
+    // ── Conteúdo antes do Gabarito ──
+    const gabIdx = clean.search(/Gabarito\s*[:\-]?\s*[A-E]/i);
+    const beforeGab = clean.substring(0, gabIdx).trim();
+    const lines = beforeGab.split('\n').map(l => l.trim()).filter(Boolean);
+
+    // ── Separa enunciado das alternativas ──
+    const optMap = {};
+    const questionLines = [];
+    let currentLetter = '';
+    let currentText   = '';
 
     for (const line of lines) {
-      const stripped = line.replace(/^#+\s*/, '').trim();
-      // detecta alternativas A) B) C) D) E)
-      if (/^[A-E]\)/.test(stripped) || /^\*?\*?[A-E]\)/.test(stripped)) {
-        phase = 'options';
-      }
-      // detecta gabarito / comentário
-      if (/^\*?\*?Gabarito/i.test(stripped) || /^\*?\*?Comentário/i.test(stripped)) {
-        phase = 'explanation';
-      }
-      if (phase === 'question')     questionLines.push(stripped);
-      else if (phase === 'options') optionLines.push(stripped);
-      else                          explanationLines.push(stripped);
-    }
+      // Ignora cabeçalhos markdown (# ## ###)
+      if (/^#{1,4}\s/.test(line)) continue;
 
-    // Limpa enunciado (remove marcação ### Questão N — ...)
-    const rawQuestion = questionLines
-      .filter(l => l && !/^###\s*Questão\s*\d/i.test(l) && !/^#\s/.test(l))
-      .join(' ')
-      .replace(/\*\*/g, '')
-      .replace(/\\/g, '')
-      .trim();
-
-    if (!rawQuestion) continue;
-
-    // Parse de opções
-    const opts = [];
-    let correctIdx = -1;
-    let correctLetter = '';
-
-    // Encontra o gabarito
-    const gabLine = explanationLines.find(l => /Gabarito/i.test(l));
-    if (gabLine) {
-      const m = gabLine.match(/Gabarito[:\s*]+([A-E])/i);
-      if (m) correctLetter = m[1].toUpperCase();
-    }
-
-    // Coleta texto de cada alternativa
-    const optMap = {};
-    let currentLetter = '';
-    let currentText = '';
-    for (const raw of optionLines) {
-      const clean = raw.replace(/\*\*/g, '').replace(/\\/g, '').trim();
-      const m = clean.match(/^([A-E])\)\s*(.*)/);
-      if (m) {
+      // Detecta início de alternativa: A) ou A.
+      const optMatch = line.match(/^([A-E])[\).\]\s]\s*(.*)/i);
+      if (optMatch && optMatch[1] === optMatch[1].toUpperCase()) {
         if (currentLetter) optMap[currentLetter] = currentText.trim();
-        currentLetter = m[1];
-        currentText   = m[2];
-      } else if (currentLetter && clean) {
-        currentText += ' ' + clean;
+        currentLetter = optMatch[1].toUpperCase();
+        currentText   = optMatch[2];
+      } else if (currentLetter) {
+        currentText += ' ' + line;
+      } else {
+        // Linha do enunciado — ignora título "Questão N —"
+        if (!/^Questão\s+\d+/i.test(line) && line.length > 0) {
+          questionLines.push(line);
+        }
       }
     }
     if (currentLetter) optMap[currentLetter] = currentText.trim();
 
+    // ── Monta opções na ordem A B C D E ──
     const letters = ['A','B','C','D','E'];
-    for (const l of letters) {
-      if (optMap[l]) opts.push(optMap[l]);
-    }
-    correctIdx = letters.indexOf(correctLetter);
+    const opts = letters.map(l => optMap[l]).filter(Boolean);
+    const correctIdx = letters.indexOf(correctLetter);
 
-    // Explicação
-    const explanation = explanationLines
-      .filter(l => !/Gabarito/i.test(l))
-      .join(' ')
-      .replace(/\*?\*?Comentário:\*?\*?/i, '')
-      .replace(/\*\*/g, '')
-      .replace(/\\/g, '')
-      .trim();
+    // ── Enunciado final ──
+    const question = questionLines.join(' ').trim();
 
-    if (opts.length >= 2 && correctIdx >= 0) {
-      questions.push({ question: rawQuestion, options: opts, correctIndex: correctIdx, explanation });
+    if (question && opts.length >= 2 && correctIdx >= 0 && correctIdx < opts.length) {
+      questions.push({ question, options: opts, correctIndex: correctIdx, explanation });
     }
   }
   return questions;
